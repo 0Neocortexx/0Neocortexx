@@ -1,6 +1,5 @@
 <h1 align="center">
   Jonathan Amorim <br>
-<img src="https://raw.githubusercontent.com/0Neocortexx/0Neocortexx/main/github-metrics.svg">
   </h1>
 Here are some ideas to get you started:
 
