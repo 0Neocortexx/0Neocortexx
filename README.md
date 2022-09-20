@@ -1,6 +1,6 @@
 Olá 👋
 
-Estas são minhas redes caso queira entrar em contato:
+Estas são minhas redes caso queira entrar em contato:<br>
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
