@@ -1,8 +1,7 @@
-### Hi there 👋
+Olá 👋
 
-<!--
-**0Neocortexx/0Neocortexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Estas são minhas redes caso queira entrar em contato:
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
