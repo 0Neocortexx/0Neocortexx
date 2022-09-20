@@ -1,6 +1,7 @@
 <h1 align="center">
-  Jonathan Amorim
-<img src="https://lastfm-recently-played.vercel.app/api?user=kamuridesu&count=3">
+  Jonathan Amorim <br>
+<img src="https://raw.githubusercontent.com/kamuridesu/kamuridesu/main/github-metrics.svg">
+  </h1>
 Here are some ideas to get you started:
 
 -  I’m currently working on ...
