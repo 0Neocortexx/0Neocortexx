@@ -20,5 +20,5 @@
   </h2>
 
 <h1 align="center">
-
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0Neocortexx&theme=dark&locale=pt-br)](https://git.io/streak-stats)
 </h1>
