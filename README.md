@@ -19,6 +19,4 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   </h2>
 
-<h1 align="center">
  ![0Neocortexx GitHub stats](https://github-readme-stats.vercel.app/api?username=0Neocortexx&show_icons=true&theme=radical)
-</h1>
