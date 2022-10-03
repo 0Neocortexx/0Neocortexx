@@ -19,4 +19,4 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   </h2>
 
- ![0Neocortexx GitHub stats](https://github-readme-stats.vercel.app/api?username=0Neocortexx&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Neocortexx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
