@@ -18,3 +18,7 @@
   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   </h2>
+
+<h1 align="center">
+https://github-readme-stats.vercel.app/api/top-langs/?username=0Neocortexx&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/jieff/github-readme-stats
+</h1>
