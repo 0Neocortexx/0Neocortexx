@@ -20,5 +20,5 @@
   </h2>
 
 <h1 align="center">
-https://github-readme-stats.vercel.app/api/top-langs/?username=0Neocortexx&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/jieff/github-readme-stats
+
 </h1>
