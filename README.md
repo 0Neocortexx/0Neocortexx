@@ -20,4 +20,3 @@
   </h2>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Neocortexx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0neocortexx&theme=dark&locale=pt-br)](https://git.io/streak-stats)
