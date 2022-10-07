@@ -18,7 +18,7 @@
 </h2><br>
 
 <p align="center">
-  <a href="https://github.com/0Neocortexx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliinescholl&layout=compact&show_icons=true&theme=transparent"></a>
+  <a href="https://github.com/0Neocortexx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Neocortexx&layout=compact&show_icons=true&theme=transparent"></a>
 </p>
 
 <p align="center">
