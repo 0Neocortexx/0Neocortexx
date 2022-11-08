@@ -48,6 +48,7 @@
   <a href="https://github.com/0Neocortexx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Neocortexx&layout=compact&show_icons=true&theme=transparent"></a>
 </p>
     
+<h3>Commit snake: </h3>
 <p align="center">
   <img src="https://github.com/0Neocortexx/0Neocortexx/blob/output/github-contribution-grid-snake.svg">
 </p>
